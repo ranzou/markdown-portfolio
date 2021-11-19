@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favourite book series
+* Mistborn
+* Wheel of Time
+* A Song of Ice and Fire
+* The Stormlight Archive
